@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: sen-bold
+font link: http://www.philatype.com/#sen
+font author: Philatype
+font author site: http://www.philatype.com/
+
+
+icon designer: Wenjie
+icon designer link: /wenjiejiang
+        
+{"bg":"#386766","icon":"#45C6B1","font":"#FFFFFF","slogan":"#ffffff"}
+      
